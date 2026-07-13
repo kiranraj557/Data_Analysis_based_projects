@@ -33,21 +33,26 @@ The dataset used in this project can be downloaded from Kaggle:
 
 The dataset contains Amazon sales transactions with fields such as:
 
-* Order ID
-* Order Date
-* Ship Date
-* Customer Name
-* Segment
-* Region
-* State
-* City
-* Product Category
-* Sub-Category
-* Product Name
-* Sales
-* Quantity
-* Profit
-* Discount
+* OrderID	
+OrderDate	
+CustomerID	
+CustomerName	
+ProductID	
+ProductName	
+Category	
+Brand	
+Quantity	
+UnitPrice	
+Discount	
+Tax	
+ShippingCost	
+TotalAmount	
+PaymentMethod	
+OrderStatus	
+City	
+State	
+Country	
+SellerID
 
 ---
 
