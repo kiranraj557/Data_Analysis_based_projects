@@ -152,3 +152,9 @@ Based on the dashboard analysis, the following business recommendations are sugg
 - 👥 Strengthen customer loyalty programs to increase repeat purchases and customer lifetime value.
 
 ---
+
+# Dashboard Preview
+
+![Amazon Sales Dashboard](Amazon_Dashboard.png)
+
+---

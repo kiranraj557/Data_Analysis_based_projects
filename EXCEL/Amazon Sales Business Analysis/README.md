@@ -352,7 +352,7 @@ Example insights generated from the dashboard:
 
 # Dashboard Preview
 
-![Amazon Sales Dashboard](Amazon_Sales_Dashboard_Clear.png)
+![Amazon Sales Dashboard](Amazon_Dashboard.png)
 
 ---
 
